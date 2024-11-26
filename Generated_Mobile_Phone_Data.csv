@@ -1,0 +1,701 @@
+brand,model,base_color,processor,Market price,unit_price,unit_cost,units_sold
+Huawei,Model 6,Green,Snapdragon 865,371,371,286,897
+Xiaomi,Model 8,Green,Apple A13 Bionic,743,743,649,146
+OnePlus,Model 11,Black,Exynos 990,742,742,600,982
+Sony,Model 14,White,Apple A13 Bionic,907,907,776,485
+Xiaomi,Model 2,Black,Apple A13 Bionic,986,986,894,274
+Apple,Model 13,Blue,MediaTek Dimensity 1000,601,601,548,810
+Apple,Model 9,White,Snapdragon 865,710,710,565,696
+Xiaomi,Model 1,Yellow,Snapdragon 865,822,822,687,813
+Huawei,Model 10,Blue,Apple A13 Bionic,317,317,178,454
+Sony,Model 0,Blue,Snapdragon 865,875,875,775,844
+OnePlus,Model 3,Blue,Apple A13 Bionic,587,587,525,146
+Samsung,Model 6,Green,MediaTek Dimensity 1000,634,634,544,479
+Apple,Model 10,Black,Snapdragon 865,565,565,470,31
+Huawei,Model 13,Green,Apple A13 Bionic,302,302,186,440
+Samsung,Model 12,Yellow,Exynos 990,425,425,353,117
+OnePlus,Model 1,Red,MediaTek Dimensity 1000,306,306,226,783
+Sony,Model 15,Black,Snapdragon 865,862,862,715,707
+OnePlus,Model 16,Green,Exynos 990,675,675,560,598
+Xiaomi,Model 1,Blue,Snapdragon 865,749,749,620,594
+Huawei,Model 4,White,Apple A13 Bionic,336,336,210,537
+Xiaomi,Model 13,Green,Snapdragon 865,597,597,490,605
+Google,Model 18,Black,Apple A13 Bionic,559,559,437,827
+Huawei,Model 12,Black,Apple A13 Bionic,414,414,341,104
+Sony,Model 3,Yellow,Snapdragon 865,431,431,332,839
+Google,Model 14,Green,Snapdragon 865,965,965,861,441
+Samsung,Model 11,Yellow,Exynos 990,639,639,542,313
+OnePlus,Model 6,Green,MediaTek Dimensity 1000,605,605,491,567
+Huawei,Model 6,Blue,Exynos 990,578,578,469,46
+Samsung,Model 19,White,Snapdragon 865,939,939,792,772
+Sony,Model 0,Black,Apple A13 Bionic,599,599,470,442
+Samsung,Model 13,Blue,Exynos 990,787,787,696,168
+Samsung,Model 16,White,Snapdragon 865,853,853,733,227
+Samsung,Model 3,Red,Apple A13 Bionic,637,637,502,221
+Huawei,Model 12,Red,Apple A13 Bionic,875,875,734,295
+Sony,Model 9,White,Apple A13 Bionic,556,556,435,135
+Sony,Model 3,White,Apple A13 Bionic,703,703,610,192
+Sony,Model 2,Black,MediaTek Dimensity 1000,850,850,766,206
+Huawei,Model 18,Yellow,Snapdragon 865,973,973,922,564
+Sony,Model 12,Black,Snapdragon 865,614,614,550,27
+Huawei,Model 16,Red,Exynos 990,952,952,815,299
+OnePlus,Model 1,White,Apple A13 Bionic,890,890,836,244
+Apple,Model 14,White,Exynos 990,579,579,463,880
+OnePlus,Model 6,Blue,Exynos 990,854,854,714,974
+Samsung,Model 11,White,Exynos 990,943,943,830,511
+Sony,Model 12,White,Exynos 990,700,700,585,200
+Xiaomi,Model 1,Black,Apple A13 Bionic,509,509,389,993
+OnePlus,Model 15,Green,Apple A13 Bionic,478,478,338,82
+Huawei,Model 7,Blue,Exynos 990,759,759,617,946
+Sony,Model 18,Green,Apple A13 Bionic,919,919,847,834
+Apple,Model 8,White,MediaTek Dimensity 1000,484,484,394,732
+Samsung,Model 11,Black,Snapdragon 865,472,472,339,996
+Samsung,Model 18,Green,Snapdragon 865,766,766,663,884
+Samsung,Model 1,Red,Snapdragon 865,555,555,417,34
+Huawei,Model 5,Yellow,Apple A13 Bionic,694,694,631,738
+Huawei,Model 6,Green,Snapdragon 865,497,497,379,436
+OnePlus,Model 7,Red,MediaTek Dimensity 1000,646,646,565,725
+Huawei,Model 14,Black,Exynos 990,818,818,747,836
+Apple,Model 3,Blue,Snapdragon 865,981,981,894,807
+Huawei,Model 1,Yellow,Apple A13 Bionic,750,750,618,330
+Sony,Model 18,Yellow,Snapdragon 865,409,409,342,647
+Sony,Model 11,Black,Apple A13 Bionic,526,526,414,125
+Sony,Model 10,White,Snapdragon 865,889,889,830,403
+Google,Model 2,Black,MediaTek Dimensity 1000,357,357,298,517
+OnePlus,Model 0,Red,Exynos 990,593,593,497,784
+Sony,Model 17,Blue,Apple A13 Bionic,383,383,326,163
+Google,Model 1,Black,Apple A13 Bionic,847,847,757,829
+Huawei,Model 14,Green,Apple A13 Bionic,388,388,281,697
+Google,Model 0,Red,Exynos 990,693,693,569,347
+Samsung,Model 5,Black,MediaTek Dimensity 1000,751,751,672,114
+Apple,Model 0,Green,Apple A13 Bionic,512,512,408,450
+Google,Model 7,White,Exynos 990,652,652,601,903
+Samsung,Model 8,Blue,Exynos 990,720,720,597,607
+OnePlus,Model 16,Black,Snapdragon 865,771,771,691,350
+Google,Model 0,Blue,Apple A13 Bionic,435,435,365,618
+Samsung,Model 6,Blue,Exynos 990,850,850,739,304
+Apple,Model 8,Yellow,Exynos 990,510,510,421,976
+Samsung,Model 18,Blue,Snapdragon 865,809,809,718,970
+Xiaomi,Model 2,White,Exynos 990,399,399,327,563
+Huawei,Model 13,Yellow,Exynos 990,936,936,853,374
+Google,Model 9,Blue,Snapdragon 865,614,614,553,747
+Apple,Model 14,Red,Snapdragon 865,693,693,634,71
+Samsung,Model 16,Green,MediaTek Dimensity 1000,972,972,913,60
+Huawei,Model 10,Green,MediaTek Dimensity 1000,738,738,605,951
+Apple,Model 14,Blue,Apple A13 Bionic,787,787,650,314
+Google,Model 12,Black,MediaTek Dimensity 1000,567,567,431,972
+Huawei,Model 13,White,MediaTek Dimensity 1000,443,443,370,162
+Huawei,Model 19,Yellow,Apple A13 Bionic,560,560,488,467
+Sony,Model 19,Yellow,MediaTek Dimensity 1000,876,876,727,506
+Samsung,Model 17,Red,Apple A13 Bionic,427,427,346,538
+Google,Model 4,Blue,Apple A13 Bionic,812,812,700,63
+Apple,Model 7,White,Exynos 990,766,766,709,588
+Google,Model 4,Black,MediaTek Dimensity 1000,351,351,249,543
+Xiaomi,Model 2,White,Snapdragon 865,687,687,617,261
+Xiaomi,Model 17,Yellow,MediaTek Dimensity 1000,628,628,532,751
+Apple,Model 7,Green,Exynos 990,381,381,232,502
+Samsung,Model 17,White,Snapdragon 865,689,689,610,855
+Apple,Model 19,Blue,Exynos 990,623,623,499,613
+Sony,Model 8,Red,Snapdragon 865,749,749,607,105
+Xiaomi,Model 8,White,MediaTek Dimensity 1000,624,624,535,765
+Sony,Model 3,White,Exynos 990,524,524,449,812
+Apple,Model 7,Yellow,MediaTek Dimensity 1000,362,362,261,959
+Huawei,Model 11,Black,Exynos 990,439,439,316,491
+Samsung,Model 8,Green,Snapdragon 865,623,623,519,242
+Apple,Model 8,Yellow,Exynos 990,522,522,372,945
+Xiaomi,Model 5,Green,MediaTek Dimensity 1000,553,553,496,580
+Google,Model 15,Red,Snapdragon 865,792,792,712,994
+Apple,Model 9,White,MediaTek Dimensity 1000,669,669,590,223
+OnePlus,Model 18,Blue,Snapdragon 865,855,855,769,921
+Google,Model 9,Blue,Snapdragon 865,649,649,572,342
+Sony,Model 12,Blue,Apple A13 Bionic,385,385,335,906
+Xiaomi,Model 12,Blue,MediaTek Dimensity 1000,867,867,727,496
+OnePlus,Model 5,Black,MediaTek Dimensity 1000,394,394,249,998
+Samsung,Model 8,Green,MediaTek Dimensity 1000,733,733,650,654
+Samsung,Model 3,Green,Exynos 990,894,894,752,983
+Google,Model 19,White,Exynos 990,925,925,827,713
+Google,Model 14,Green,Snapdragon 865,358,358,240,88
+Google,Model 2,Black,Exynos 990,624,624,572,18
+OnePlus,Model 10,Red,Exynos 990,879,879,791,176
+OnePlus,Model 11,Black,Snapdragon 865,474,474,386,579
+Huawei,Model 18,Yellow,MediaTek Dimensity 1000,475,475,355,867
+Apple,Model 3,Black,Snapdragon 865,551,551,492,707
+Sony,Model 6,White,Snapdragon 865,482,482,382,60
+Sony,Model 19,Black,Snapdragon 865,435,435,335,126
+Sony,Model 0,Red,MediaTek Dimensity 1000,683,683,628,963
+Huawei,Model 16,Blue,Apple A13 Bionic,789,789,664,303
+Apple,Model 17,White,Exynos 990,958,958,818,611
+Huawei,Model 19,Green,Apple A13 Bionic,937,937,856,62
+Google,Model 4,Blue,Apple A13 Bionic,569,569,467,651
+OnePlus,Model 18,Red,Exynos 990,756,756,626,766
+OnePlus,Model 13,Blue,Exynos 990,308,308,185,302
+Sony,Model 0,Yellow,Snapdragon 865,352,352,277,236
+Google,Model 19,Yellow,MediaTek Dimensity 1000,627,627,556,191
+Samsung,Model 10,Blue,Apple A13 Bionic,961,961,858,707
+Huawei,Model 4,Black,Exynos 990,760,760,691,375
+Google,Model 9,Red,Snapdragon 865,480,480,367,266
+Apple,Model 14,White,Apple A13 Bionic,933,933,866,484
+OnePlus,Model 9,Black,Exynos 990,470,470,356,340
+Samsung,Model 16,Black,Exynos 990,749,749,599,46
+Samsung,Model 19,Blue,Snapdragon 865,301,301,174,575
+Huawei,Model 19,White,MediaTek Dimensity 1000,596,596,458,806
+Xiaomi,Model 16,Green,Apple A13 Bionic,357,357,251,359
+OnePlus,Model 18,Yellow,MediaTek Dimensity 1000,815,815,691,956
+Samsung,Model 12,Black,Snapdragon 865,782,782,678,834
+OnePlus,Model 2,Red,Exynos 990,780,780,726,138
+Samsung,Model 14,Green,Apple A13 Bionic,672,672,601,699
+Samsung,Model 4,Yellow,Exynos 990,516,516,435,772
+OnePlus,Model 17,Blue,Snapdragon 865,546,546,399,765
+Xiaomi,Model 16,Blue,Snapdragon 865,571,571,505,523
+Huawei,Model 16,Black,Snapdragon 865,618,618,475,679
+Xiaomi,Model 2,Blue,Snapdragon 865,349,349,208,579
+OnePlus,Model 15,Blue,Apple A13 Bionic,802,802,727,355
+OnePlus,Model 7,Yellow,Snapdragon 865,437,437,294,455
+Sony,Model 15,Black,MediaTek Dimensity 1000,543,543,454,663
+Huawei,Model 4,Black,Apple A13 Bionic,349,349,207,546
+Huawei,Model 15,Black,MediaTek Dimensity 1000,596,596,502,74
+Xiaomi,Model 15,Yellow,Exynos 990,554,554,483,539
+OnePlus,Model 13,Blue,Exynos 990,768,768,703,838
+Xiaomi,Model 18,Red,Snapdragon 865,339,339,236,257
+Apple,Model 0,White,Exynos 990,344,344,226,547
+Sony,Model 13,Green,MediaTek Dimensity 1000,767,767,626,135
+Samsung,Model 4,Red,MediaTek Dimensity 1000,452,452,314,457
+Apple,Model 4,Yellow,Snapdragon 865,750,750,695,269
+Apple,Model 17,Blue,Snapdragon 865,378,378,262,764
+Xiaomi,Model 8,Green,Exynos 990,905,905,778,23
+Apple,Model 15,Red,MediaTek Dimensity 1000,514,514,453,130
+Sony,Model 19,Black,Snapdragon 865,437,437,292,949
+Samsung,Model 8,Red,MediaTek Dimensity 1000,515,515,422,865
+Huawei,Model 10,Blue,MediaTek Dimensity 1000,709,709,577,679
+Apple,Model 6,Green,Snapdragon 865,675,675,579,630
+Huawei,Model 19,White,MediaTek Dimensity 1000,377,377,288,756
+Sony,Model 15,Green,MediaTek Dimensity 1000,742,742,659,472
+Sony,Model 8,Green,Snapdragon 865,530,530,479,346
+Samsung,Model 7,Yellow,MediaTek Dimensity 1000,930,930,801,523
+Huawei,Model 16,Blue,Snapdragon 865,596,596,458,84
+Google,Model 17,White,Snapdragon 865,502,502,412,235
+OnePlus,Model 4,Blue,Exynos 990,925,925,794,847
+Samsung,Model 17,Blue,Exynos 990,313,313,170,246
+Google,Model 5,Red,Apple A13 Bionic,646,646,589,786
+OnePlus,Model 14,White,Exynos 990,360,360,245,495
+Apple,Model 18,Green,Snapdragon 865,946,946,813,138
+Huawei,Model 13,Blue,Exynos 990,553,553,492,349
+Xiaomi,Model 1,Yellow,Apple A13 Bionic,759,759,689,986
+Apple,Model 0,Blue,MediaTek Dimensity 1000,328,328,249,379
+Xiaomi,Model 17,Yellow,Apple A13 Bionic,310,310,181,558
+Huawei,Model 1,Blue,MediaTek Dimensity 1000,953,953,893,185
+Samsung,Model 5,White,MediaTek Dimensity 1000,769,769,705,695
+Google,Model 2,Black,Exynos 990,737,737,594,82
+Apple,Model 9,White,Apple A13 Bionic,666,666,582,527
+Google,Model 19,Red,Exynos 990,580,580,524,435
+OnePlus,Model 4,Red,Apple A13 Bionic,711,711,573,38
+Samsung,Model 17,Green,Snapdragon 865,677,677,599,45
+Xiaomi,Model 11,Yellow,MediaTek Dimensity 1000,897,897,796,391
+Google,Model 1,Yellow,MediaTek Dimensity 1000,329,329,238,180
+Xiaomi,Model 19,Red,Snapdragon 865,654,654,598,112
+Samsung,Model 4,Green,Snapdragon 865,539,539,440,569
+Sony,Model 14,Red,Snapdragon 865,795,795,698,561
+Sony,Model 6,Black,Apple A13 Bionic,874,874,805,124
+Apple,Model 13,Black,Snapdragon 865,957,957,844,703
+Sony,Model 17,Blue,Exynos 990,660,660,567,220
+Samsung,Model 14,Blue,Snapdragon 865,391,391,299,425
+OnePlus,Model 16,Blue,Apple A13 Bionic,979,979,917,1000
+Huawei,Model 9,Blue,MediaTek Dimensity 1000,795,795,679,128
+Xiaomi,Model 0,Green,Exynos 990,454,454,392,330
+Sony,Model 17,Blue,Apple A13 Bionic,813,813,697,946
+Apple,Model 19,Blue,Snapdragon 865,410,410,284,512
+Samsung,Model 2,Blue,MediaTek Dimensity 1000,379,379,283,503
+Sony,Model 18,Black,Exynos 990,502,502,390,246
+Xiaomi,Model 12,Red,MediaTek Dimensity 1000,539,539,394,945
+Samsung,Model 7,Green,MediaTek Dimensity 1000,406,406,326,480
+Xiaomi,Model 1,Yellow,MediaTek Dimensity 1000,695,695,624,887
+Xiaomi,Model 16,Red,MediaTek Dimensity 1000,890,890,829,882
+OnePlus,Model 4,Blue,Apple A13 Bionic,619,619,471,555
+Google,Model 12,Black,Exynos 990,649,649,597,290
+OnePlus,Model 14,Black,Snapdragon 865,997,997,867,259
+Xiaomi,Model 10,Blue,MediaTek Dimensity 1000,678,678,567,922
+Huawei,Model 2,Green,MediaTek Dimensity 1000,698,698,578,427
+Huawei,Model 11,Red,Apple A13 Bionic,576,576,477,813
+Huawei,Model 11,Red,MediaTek Dimensity 1000,886,886,824,193
+Xiaomi,Model 8,Black,Exynos 990,564,564,497,582
+Sony,Model 12,Red,Apple A13 Bionic,705,705,649,66
+Huawei,Model 3,Red,Apple A13 Bionic,949,949,899,609
+Google,Model 19,Yellow,Snapdragon 865,664,664,590,38
+Apple,Model 6,White,Snapdragon 865,562,562,472,993
+Samsung,Model 17,White,Apple A13 Bionic,416,416,299,178
+Sony,Model 10,Blue,MediaTek Dimensity 1000,474,474,357,378
+Google,Model 0,White,MediaTek Dimensity 1000,663,663,567,826
+Sony,Model 9,Yellow,Apple A13 Bionic,830,830,772,911
+Google,Model 4,Red,MediaTek Dimensity 1000,782,782,696,903
+Google,Model 6,Green,MediaTek Dimensity 1000,355,355,222,543
+Huawei,Model 19,Black,MediaTek Dimensity 1000,695,695,556,351
+Apple,Model 4,Green,Exynos 990,893,893,799,987
+Samsung,Model 0,Yellow,Snapdragon 865,620,620,525,74
+Xiaomi,Model 3,Yellow,Snapdragon 865,840,840,723,678
+Xiaomi,Model 2,White,Apple A13 Bionic,783,783,733,260
+Huawei,Model 1,Blue,Snapdragon 865,659,659,527,857
+Apple,Model 15,Black,Snapdragon 865,476,476,337,714
+OnePlus,Model 16,Blue,MediaTek Dimensity 1000,802,802,741,742
+Apple,Model 19,Red,MediaTek Dimensity 1000,901,901,803,398
+OnePlus,Model 19,Green,Snapdragon 865,984,984,897,318
+Samsung,Model 17,Green,MediaTek Dimensity 1000,411,411,289,412
+Google,Model 8,Red,Exynos 990,925,925,830,480
+Apple,Model 15,Green,Exynos 990,788,788,656,901
+Apple,Model 10,Black,Snapdragon 865,317,317,260,19
+OnePlus,Model 5,Yellow,Snapdragon 865,659,659,519,721
+Sony,Model 1,Blue,Exynos 990,666,666,594,840
+Apple,Model 17,Yellow,Apple A13 Bionic,337,337,223,497
+Sony,Model 7,Red,Exynos 990,996,996,932,800
+Huawei,Model 18,Black,Apple A13 Bionic,856,856,765,18
+Huawei,Model 2,Red,Exynos 990,967,967,819,521
+OnePlus,Model 11,Blue,Snapdragon 865,638,638,518,763
+Sony,Model 12,White,Apple A13 Bionic,835,835,736,784
+Samsung,Model 13,Black,Snapdragon 865,597,597,486,39
+Sony,Model 3,Blue,MediaTek Dimensity 1000,720,720,613,627
+Xiaomi,Model 3,White,Snapdragon 865,403,403,275,648
+Xiaomi,Model 18,Black,Snapdragon 865,474,474,422,429
+OnePlus,Model 12,White,MediaTek Dimensity 1000,300,300,153,248
+OnePlus,Model 16,Blue,Snapdragon 865,487,487,403,839
+Apple,Model 0,Blue,MediaTek Dimensity 1000,305,305,213,59
+Xiaomi,Model 16,Black,Apple A13 Bionic,991,991,849,386
+Huawei,Model 17,Blue,MediaTek Dimensity 1000,953,953,828,842
+OnePlus,Model 17,Black,Apple A13 Bionic,968,968,860,676
+Google,Model 12,Yellow,Exynos 990,388,388,244,362
+Apple,Model 13,Yellow,Exynos 990,599,599,524,956
+Xiaomi,Model 2,White,Snapdragon 865,396,396,338,886
+Samsung,Model 0,Yellow,Snapdragon 865,366,366,287,772
+Sony,Model 13,Green,MediaTek Dimensity 1000,808,808,677,345
+Xiaomi,Model 2,Black,MediaTek Dimensity 1000,753,753,666,990
+Samsung,Model 16,White,Snapdragon 865,348,348,211,199
+Xiaomi,Model 18,Red,Exynos 990,735,735,623,460
+Samsung,Model 8,Blue,MediaTek Dimensity 1000,629,629,565,606
+Xiaomi,Model 3,Black,Snapdragon 865,330,330,198,133
+OnePlus,Model 14,Black,Exynos 990,877,877,735,188
+Apple,Model 15,White,Exynos 990,899,899,808,82
+OnePlus,Model 1,White,Apple A13 Bionic,789,789,730,158
+Google,Model 10,Green,MediaTek Dimensity 1000,415,415,268,521
+Samsung,Model 13,Green,MediaTek Dimensity 1000,962,962,831,313
+Xiaomi,Model 17,Yellow,Apple A13 Bionic,962,962,856,483
+Apple,Model 4,Yellow,Snapdragon 865,451,451,311,487
+Sony,Model 4,Yellow,MediaTek Dimensity 1000,618,618,469,165
+Sony,Model 3,Red,Snapdragon 865,527,527,415,276
+Huawei,Model 8,Yellow,Snapdragon 865,669,669,598,164
+Google,Model 13,Yellow,Snapdragon 865,400,400,348,624
+Apple,Model 10,Green,Apple A13 Bionic,541,541,461,204
+Google,Model 6,Blue,Snapdragon 865,575,575,459,529
+Google,Model 6,Black,Exynos 990,448,448,363,345
+Samsung,Model 19,Yellow,Exynos 990,846,846,709,727
+OnePlus,Model 12,Green,Snapdragon 865,380,380,316,67
+Apple,Model 14,Yellow,MediaTek Dimensity 1000,626,626,539,352
+Samsung,Model 17,Green,MediaTek Dimensity 1000,796,796,686,84
+Samsung,Model 10,Yellow,Apple A13 Bionic,741,741,606,538
+Xiaomi,Model 11,Yellow,Exynos 990,963,963,824,396
+Apple,Model 0,Yellow,Snapdragon 865,732,732,679,659
+Huawei,Model 17,White,MediaTek Dimensity 1000,980,980,841,797
+OnePlus,Model 5,Red,Snapdragon 865,344,344,276,402
+Samsung,Model 19,Red,MediaTek Dimensity 1000,515,515,409,306
+Apple,Model 14,Yellow,Snapdragon 865,604,604,519,420
+Apple,Model 4,Blue,MediaTek Dimensity 1000,690,690,557,454
+Apple,Model 12,Black,Snapdragon 865,918,918,853,724
+Samsung,Model 10,Black,Snapdragon 865,788,788,726,963
+Apple,Model 15,Black,MediaTek Dimensity 1000,494,494,383,426
+Huawei,Model 6,Green,Apple A13 Bionic,937,937,836,424
+Sony,Model 1,Yellow,MediaTek Dimensity 1000,655,655,604,51
+Sony,Model 3,White,Snapdragon 865,791,791,682,431
+Xiaomi,Model 13,Yellow,Snapdragon 865,349,349,240,979
+Sony,Model 0,Green,MediaTek Dimensity 1000,448,448,315,173
+Xiaomi,Model 3,Green,MediaTek Dimensity 1000,557,557,469,365
+Sony,Model 12,Green,Exynos 990,845,845,727,468
+Apple,Model 18,Yellow,MediaTek Dimensity 1000,335,335,221,657
+Google,Model 13,White,Exynos 990,549,549,477,811
+Google,Model 17,Green,Exynos 990,778,778,658,27
+Xiaomi,Model 18,Black,Exynos 990,752,752,614,720
+Samsung,Model 12,Blue,Apple A13 Bionic,454,454,399,700
+Samsung,Model 8,Black,Exynos 990,481,481,430,172
+OnePlus,Model 0,Blue,Apple A13 Bionic,400,400,254,370
+Xiaomi,Model 11,White,Apple A13 Bionic,349,349,200,459
+Samsung,Model 13,Blue,Apple A13 Bionic,677,677,553,942
+Huawei,Model 2,Blue,Exynos 990,410,410,338,84
+Apple,Model 4,Yellow,Exynos 990,428,428,328,514
+Samsung,Model 4,Green,Snapdragon 865,652,652,530,266
+Apple,Model 15,Yellow,MediaTek Dimensity 1000,434,434,287,946
+Sony,Model 17,Yellow,Apple A13 Bionic,560,560,472,347
+OnePlus,Model 16,Blue,Exynos 990,361,361,295,491
+Huawei,Model 9,Black,Exynos 990,380,380,288,547
+OnePlus,Model 19,Red,Apple A13 Bionic,803,803,748,684
+Sony,Model 8,Blue,Apple A13 Bionic,306,306,202,569
+Google,Model 15,Black,MediaTek Dimensity 1000,577,577,428,16
+Sony,Model 0,Blue,MediaTek Dimensity 1000,982,982,875,972
+Huawei,Model 6,White,Snapdragon 865,584,584,489,275
+Sony,Model 9,White,Exynos 990,397,397,259,94
+Huawei,Model 11,Red,Exynos 990,857,857,791,788
+Samsung,Model 7,White,Apple A13 Bionic,949,949,824,601
+Huawei,Model 11,Green,MediaTek Dimensity 1000,488,488,376,922
+Xiaomi,Model 1,Black,Apple A13 Bionic,911,911,768,951
+Huawei,Model 8,Blue,MediaTek Dimensity 1000,444,444,318,435
+Samsung,Model 1,Green,Exynos 990,874,874,733,894
+Samsung,Model 11,Black,Apple A13 Bionic,605,605,519,16
+Apple,Model 10,Red,MediaTek Dimensity 1000,594,594,470,687
+Xiaomi,Model 14,Red,MediaTek Dimensity 1000,603,603,482,880
+OnePlus,Model 19,Blue,MediaTek Dimensity 1000,704,704,602,147
+Google,Model 1,Green,MediaTek Dimensity 1000,506,506,397,559
+Sony,Model 15,Blue,Apple A13 Bionic,830,830,704,872
+Sony,Model 12,Green,MediaTek Dimensity 1000,884,884,776,652
+Sony,Model 9,Yellow,MediaTek Dimensity 1000,452,452,334,592
+Xiaomi,Model 15,Black,Exynos 990,472,472,414,125
+Xiaomi,Model 10,Blue,Snapdragon 865,446,446,375,338
+Samsung,Model 0,White,Apple A13 Bionic,554,554,449,123
+Sony,Model 5,Yellow,Exynos 990,832,832,733,881
+Sony,Model 2,Green,MediaTek Dimensity 1000,830,830,710,678
+Xiaomi,Model 0,Red,MediaTek Dimensity 1000,468,468,321,252
+Sony,Model 6,Green,Apple A13 Bionic,732,732,643,296
+Apple,Model 0,Yellow,Exynos 990,348,348,221,134
+Apple,Model 3,Blue,Snapdragon 865,476,476,362,372
+OnePlus,Model 1,Black,Apple A13 Bionic,374,374,234,980
+OnePlus,Model 3,White,Exynos 990,775,775,631,29
+Huawei,Model 1,White,Snapdragon 865,576,576,429,627
+Xiaomi,Model 17,Green,MediaTek Dimensity 1000,379,379,307,989
+OnePlus,Model 16,Blue,Snapdragon 865,812,812,731,653
+Xiaomi,Model 19,White,Snapdragon 865,637,637,582,434
+Google,Model 1,Red,MediaTek Dimensity 1000,596,596,531,367
+Huawei,Model 0,Red,Exynos 990,325,325,256,33
+Sony,Model 15,Green,Exynos 990,717,717,572,190
+Sony,Model 13,Red,Apple A13 Bionic,650,650,577,168
+Apple,Model 15,Red,MediaTek Dimensity 1000,948,948,893,197
+Huawei,Model 5,Green,Exynos 990,530,530,438,229
+Sony,Model 13,Black,MediaTek Dimensity 1000,766,766,669,821
+OnePlus,Model 7,White,MediaTek Dimensity 1000,843,843,702,659
+OnePlus,Model 4,Green,Exynos 990,614,614,485,484
+Xiaomi,Model 17,Green,Exynos 990,376,376,270,835
+Apple,Model 3,Green,Apple A13 Bionic,454,454,366,628
+Apple,Model 6,Green,Exynos 990,538,538,415,171
+Xiaomi,Model 19,Black,Exynos 990,440,440,337,523
+OnePlus,Model 13,White,Exynos 990,881,881,759,592
+Google,Model 1,Green,MediaTek Dimensity 1000,719,719,581,616
+OnePlus,Model 19,White,Apple A13 Bionic,900,900,781,122
+Sony,Model 9,Green,Apple A13 Bionic,392,392,281,269
+Samsung,Model 16,Blue,MediaTek Dimensity 1000,969,969,821,877
+OnePlus,Model 1,Black,Apple A13 Bionic,874,874,777,978
+Xiaomi,Model 9,Red,Apple A13 Bionic,907,907,769,220
+Google,Model 9,Blue,Apple A13 Bionic,631,631,485,820
+OnePlus,Model 14,White,Snapdragon 865,493,493,366,727
+Samsung,Model 15,Black,Snapdragon 865,494,494,373,34
+Samsung,Model 10,Red,Apple A13 Bionic,871,871,737,426
+OnePlus,Model 15,Yellow,Snapdragon 865,309,309,195,910
+Xiaomi,Model 18,Yellow,Snapdragon 865,817,817,687,660
+OnePlus,Model 2,Black,Apple A13 Bionic,402,402,313,559
+Huawei,Model 13,Green,Exynos 990,578,578,471,116
+Huawei,Model 15,White,Apple A13 Bionic,794,794,660,794
+Xiaomi,Model 0,White,Snapdragon 865,818,818,759,744
+Samsung,Model 3,Green,Exynos 990,883,883,749,385
+Samsung,Model 4,Red,Snapdragon 865,637,637,582,969
+Xiaomi,Model 2,Red,MediaTek Dimensity 1000,434,434,314,971
+OnePlus,Model 1,White,Exynos 990,399,399,300,537
+Huawei,Model 7,Green,MediaTek Dimensity 1000,920,920,833,813
+Huawei,Model 1,Yellow,Exynos 990,914,914,787,269
+OnePlus,Model 5,Green,Apple A13 Bionic,654,654,587,636
+OnePlus,Model 12,Green,Snapdragon 865,550,550,408,98
+OnePlus,Model 18,Red,Snapdragon 865,940,940,855,252
+Sony,Model 5,White,Apple A13 Bionic,568,568,502,726
+Xiaomi,Model 7,White,Apple A13 Bionic,963,963,863,474
+Sony,Model 6,White,MediaTek Dimensity 1000,975,975,885,155
+Google,Model 17,Black,Snapdragon 865,698,698,576,523
+Apple,Model 16,Red,Apple A13 Bionic,749,749,630,889
+Samsung,Model 6,Blue,Snapdragon 865,604,604,498,790
+Xiaomi,Model 12,White,Snapdragon 865,901,901,788,942
+Samsung,Model 4,Blue,MediaTek Dimensity 1000,412,412,362,722
+Huawei,Model 2,Black,Apple A13 Bionic,755,755,702,545
+Huawei,Model 10,Black,Exynos 990,930,930,864,133
+Google,Model 18,White,Exynos 990,333,333,217,859
+Google,Model 12,Blue,MediaTek Dimensity 1000,641,641,521,587
+OnePlus,Model 17,White,Apple A13 Bionic,398,398,308,929
+Google,Model 15,White,Apple A13 Bionic,567,567,469,442
+Sony,Model 11,Yellow,MediaTek Dimensity 1000,412,412,309,81
+Samsung,Model 15,Yellow,Snapdragon 865,613,613,486,797
+Xiaomi,Model 6,Blue,MediaTek Dimensity 1000,846,846,761,249
+Sony,Model 10,White,MediaTek Dimensity 1000,928,928,787,626
+OnePlus,Model 6,Black,Exynos 990,493,493,372,422
+Xiaomi,Model 12,Black,Snapdragon 865,827,827,717,906
+Sony,Model 13,Blue,MediaTek Dimensity 1000,715,715,590,26
+Apple,Model 9,Black,MediaTek Dimensity 1000,680,680,574,256
+Samsung,Model 7,White,Exynos 990,694,694,608,900
+Google,Model 19,Black,Apple A13 Bionic,824,824,682,795
+Xiaomi,Model 8,White,Exynos 990,625,625,484,705
+OnePlus,Model 15,Black,Apple A13 Bionic,485,485,361,967
+Sony,Model 9,Red,Apple A13 Bionic,658,658,542,764
+OnePlus,Model 2,Red,Snapdragon 865,556,556,504,562
+Xiaomi,Model 12,Blue,MediaTek Dimensity 1000,536,536,422,638
+Samsung,Model 7,Black,Exynos 990,718,718,568,315
+Apple,Model 18,Blue,Apple A13 Bionic,401,401,303,213
+Google,Model 6,Yellow,MediaTek Dimensity 1000,827,827,701,27
+Huawei,Model 0,Red,MediaTek Dimensity 1000,571,571,439,54
+Xiaomi,Model 4,Black,Exynos 990,941,941,850,859
+OnePlus,Model 3,Red,Exynos 990,571,571,463,792
+Xiaomi,Model 12,Black,MediaTek Dimensity 1000,566,566,495,889
+Apple,Model 8,Black,Apple A13 Bionic,478,478,402,424
+Xiaomi,Model 13,Green,Exynos 990,878,878,739,336
+OnePlus,Model 11,Green,Apple A13 Bionic,419,419,295,931
+Xiaomi,Model 5,Red,Exynos 990,762,762,665,224
+Sony,Model 10,Red,Snapdragon 865,704,704,624,203
+Google,Model 12,Yellow,Snapdragon 865,365,365,245,540
+Huawei,Model 14,Green,Exynos 990,710,710,653,233
+Sony,Model 15,Green,Snapdragon 865,445,445,315,393
+Huawei,Model 10,Red,Exynos 990,543,543,454,116
+Samsung,Model 15,Blue,MediaTek Dimensity 1000,748,748,691,237
+OnePlus,Model 12,Black,Snapdragon 865,306,306,214,481
+Sony,Model 19,Blue,Apple A13 Bionic,659,659,547,990
+Apple,Model 13,Yellow,MediaTek Dimensity 1000,904,904,826,209
+OnePlus,Model 2,Black,Snapdragon 865,994,994,871,377
+Google,Model 7,White,MediaTek Dimensity 1000,939,939,835,344
+Sony,Model 7,Blue,Apple A13 Bionic,852,852,715,526
+Apple,Model 3,Black,Apple A13 Bionic,571,571,467,284
+Apple,Model 3,Yellow,Exynos 990,551,551,494,436
+OnePlus,Model 14,Green,Exynos 990,313,313,246,419
+Huawei,Model 11,Yellow,Snapdragon 865,998,998,924,521
+Sony,Model 3,Yellow,Apple A13 Bionic,778,778,679,904
+OnePlus,Model 17,Red,Exynos 990,603,603,518,657
+Huawei,Model 1,Green,Apple A13 Bionic,466,466,329,654
+Xiaomi,Model 2,Black,MediaTek Dimensity 1000,480,480,346,857
+Samsung,Model 9,Red,Snapdragon 865,784,784,704,425
+Apple,Model 4,Red,Apple A13 Bionic,302,302,242,765
+Huawei,Model 14,Blue,Exynos 990,641,641,562,34
+Sony,Model 10,Blue,Exynos 990,721,721,598,535
+Google,Model 10,Red,Snapdragon 865,481,481,345,109
+OnePlus,Model 12,Yellow,Exynos 990,497,497,387,183
+Huawei,Model 9,Black,MediaTek Dimensity 1000,527,527,406,217
+OnePlus,Model 4,Yellow,Snapdragon 865,382,382,316,668
+Samsung,Model 13,White,Exynos 990,809,809,746,761
+Samsung,Model 1,Blue,MediaTek Dimensity 1000,417,417,357,125
+Xiaomi,Model 8,Blue,Exynos 990,562,562,429,746
+Sony,Model 14,Black,MediaTek Dimensity 1000,557,557,501,712
+Apple,Model 10,Red,MediaTek Dimensity 1000,361,361,293,696
+Samsung,Model 15,Black,Apple A13 Bionic,923,923,828,792
+Sony,Model 17,Blue,Exynos 990,759,759,682,27
+Google,Model 4,Blue,Apple A13 Bionic,580,580,519,328
+Xiaomi,Model 7,Blue,Apple A13 Bionic,711,711,584,152
+Huawei,Model 11,Blue,Apple A13 Bionic,632,632,497,820
+Sony,Model 7,Red,Apple A13 Bionic,776,776,672,806
+Xiaomi,Model 1,Red,MediaTek Dimensity 1000,473,473,409,183
+Huawei,Model 2,White,MediaTek Dimensity 1000,488,488,382,779
+Xiaomi,Model 18,Black,Snapdragon 865,985,985,914,56
+OnePlus,Model 8,Red,Apple A13 Bionic,577,577,450,190
+Xiaomi,Model 2,Black,Exynos 990,718,718,581,868
+Sony,Model 11,Green,Exynos 990,470,470,341,149
+Xiaomi,Model 10,Red,Apple A13 Bionic,514,514,438,212
+Google,Model 15,Blue,Apple A13 Bionic,847,847,731,369
+Sony,Model 0,Red,Exynos 990,746,746,682,185
+Huawei,Model 4,Black,Snapdragon 865,944,944,887,449
+Xiaomi,Model 7,Red,Exynos 990,968,968,818,127
+Huawei,Model 8,Blue,Exynos 990,598,598,509,681
+OnePlus,Model 4,Red,Snapdragon 865,978,978,853,598
+Google,Model 12,Red,Exynos 990,355,355,210,726
+Xiaomi,Model 12,Blue,MediaTek Dimensity 1000,811,811,691,689
+Huawei,Model 14,White,Exynos 990,448,448,379,907
+Google,Model 5,Red,Apple A13 Bionic,369,369,234,649
+Samsung,Model 9,Red,MediaTek Dimensity 1000,583,583,442,861
+Google,Model 3,White,Snapdragon 865,675,675,569,645
+Google,Model 9,Red,Snapdragon 865,865,865,734,138
+Xiaomi,Model 13,Yellow,Apple A13 Bionic,534,534,484,893
+Apple,Model 0,White,Apple A13 Bionic,569,569,514,596
+Google,Model 10,White,MediaTek Dimensity 1000,318,318,226,843
+Apple,Model 7,White,Snapdragon 865,658,658,524,57
+Xiaomi,Model 11,Black,Snapdragon 865,386,386,317,522
+Apple,Model 17,Yellow,Apple A13 Bionic,721,721,657,570
+OnePlus,Model 1,Green,Apple A13 Bionic,508,508,376,595
+Sony,Model 19,Black,Apple A13 Bionic,771,771,720,937
+Xiaomi,Model 4,Blue,Exynos 990,635,635,541,190
+OnePlus,Model 9,Black,Snapdragon 865,521,521,391,939
+Apple,Model 13,Blue,Exynos 990,638,638,490,16
+Xiaomi,Model 15,Green,Exynos 990,878,878,734,78
+Huawei,Model 16,Green,Exynos 990,654,654,552,333
+Huawei,Model 6,Black,Snapdragon 865,961,961,813,313
+Huawei,Model 13,Blue,MediaTek Dimensity 1000,738,738,642,934
+Google,Model 0,White,MediaTek Dimensity 1000,313,313,239,845
+Huawei,Model 0,White,Apple A13 Bionic,646,646,512,409
+Samsung,Model 7,White,Snapdragon 865,716,716,600,331
+Sony,Model 7,Yellow,Snapdragon 865,509,509,431,449
+Samsung,Model 6,Black,Apple A13 Bionic,508,508,435,677
+Samsung,Model 13,Green,MediaTek Dimensity 1000,782,782,665,267
+Huawei,Model 0,Green,MediaTek Dimensity 1000,774,774,644,612
+Huawei,Model 16,Red,Apple A13 Bionic,812,812,757,304
+Xiaomi,Model 7,White,MediaTek Dimensity 1000,701,701,556,512
+OnePlus,Model 18,Yellow,MediaTek Dimensity 1000,372,372,317,565
+OnePlus,Model 0,Green,Apple A13 Bionic,604,604,549,136
+Sony,Model 17,Blue,Exynos 990,951,951,836,95
+Samsung,Model 10,Blue,Exynos 990,811,811,694,62
+Samsung,Model 7,Yellow,Snapdragon 865,761,761,696,581
+Sony,Model 9,Red,Exynos 990,764,764,622,366
+Xiaomi,Model 5,White,Snapdragon 865,977,977,871,364
+Huawei,Model 0,Yellow,Apple A13 Bionic,878,878,737,102
+Huawei,Model 3,Green,Exynos 990,608,608,488,917
+Sony,Model 16,Yellow,MediaTek Dimensity 1000,926,926,781,798
+Sony,Model 8,Black,MediaTek Dimensity 1000,899,899,779,911
+Samsung,Model 6,Green,Exynos 990,510,510,413,452
+Huawei,Model 10,Blue,Snapdragon 865,479,479,364,63
+OnePlus,Model 0,Green,MediaTek Dimensity 1000,522,522,467,489
+OnePlus,Model 4,Green,MediaTek Dimensity 1000,699,699,645,647
+Samsung,Model 17,Red,MediaTek Dimensity 1000,635,635,521,634
+Samsung,Model 17,Red,Exynos 990,369,369,259,77
+OnePlus,Model 1,White,Apple A13 Bionic,941,941,830,242
+Apple,Model 1,Black,Exynos 990,981,981,928,864
+Xiaomi,Model 5,Blue,Exynos 990,724,724,646,661
+Xiaomi,Model 3,Black,Apple A13 Bionic,954,954,903,823
+OnePlus,Model 2,Black,Apple A13 Bionic,696,696,641,911
+Samsung,Model 15,Blue,Snapdragon 865,868,868,777,703
+Sony,Model 11,White,Apple A13 Bionic,422,422,337,91
+Samsung,Model 7,Black,Exynos 990,470,470,403,652
+Xiaomi,Model 10,Blue,Exynos 990,968,968,864,487
+Google,Model 4,Black,Apple A13 Bionic,756,756,607,99
+Apple,Model 14,Green,Snapdragon 865,761,761,611,983
+Apple,Model 0,Blue,Apple A13 Bionic,764,764,693,659
+Xiaomi,Model 3,Red,Exynos 990,704,704,559,784
+Samsung,Model 17,Green,Exynos 990,454,454,395,48
+Huawei,Model 16,Yellow,MediaTek Dimensity 1000,745,745,644,39
+Huawei,Model 3,White,Exynos 990,827,827,755,241
+OnePlus,Model 8,White,MediaTek Dimensity 1000,437,437,365,228
+Huawei,Model 11,Black,Snapdragon 865,510,510,451,885
+Huawei,Model 3,Green,Snapdragon 865,308,308,217,886
+Google,Model 18,White,Snapdragon 865,446,446,342,442
+Sony,Model 8,Blue,Apple A13 Bionic,840,840,751,177
+Huawei,Model 1,Black,MediaTek Dimensity 1000,561,561,447,700
+Xiaomi,Model 1,Red,Snapdragon 865,327,327,252,817
+Xiaomi,Model 6,Yellow,MediaTek Dimensity 1000,403,403,257,975
+Huawei,Model 1,White,Exynos 990,542,542,475,205
+Samsung,Model 16,Yellow,MediaTek Dimensity 1000,974,974,838,344
+Samsung,Model 12,White,Exynos 990,720,720,588,60
+Google,Model 19,Green,Snapdragon 865,300,300,172,307
+Samsung,Model 11,Blue,Exynos 990,744,744,599,628
+Huawei,Model 2,Green,Apple A13 Bionic,903,903,780,405
+Google,Model 19,White,Apple A13 Bionic,748,748,631,906
+Huawei,Model 7,Yellow,MediaTek Dimensity 1000,654,654,517,984
+Sony,Model 3,Red,Snapdragon 865,939,939,821,238
+Xiaomi,Model 0,Green,Apple A13 Bionic,938,938,789,328
+Samsung,Model 17,Yellow,Apple A13 Bionic,931,931,856,622
+OnePlus,Model 14,Blue,Exynos 990,681,681,603,879
+Xiaomi,Model 5,Green,Apple A13 Bionic,642,642,551,449
+OnePlus,Model 13,Blue,MediaTek Dimensity 1000,572,572,474,189
+Samsung,Model 7,Blue,Exynos 990,880,880,764,769
+Xiaomi,Model 8,Black,Snapdragon 865,329,329,265,257
+Google,Model 3,Green,Exynos 990,481,481,364,326
+Xiaomi,Model 13,Black,Snapdragon 865,366,366,272,775
+OnePlus,Model 1,White,MediaTek Dimensity 1000,671,671,557,993
+OnePlus,Model 18,Blue,Apple A13 Bionic,991,991,906,724
+Google,Model 7,Blue,Exynos 990,927,927,807,827
+Google,Model 11,Yellow,Apple A13 Bionic,756,756,698,158
+Samsung,Model 1,White,Exynos 990,443,443,347,710
+Xiaomi,Model 4,Black,Apple A13 Bionic,724,724,630,613
+Google,Model 9,Black,MediaTek Dimensity 1000,951,951,877,191
+Apple,Model 11,Blue,Snapdragon 865,701,701,575,471
+Sony,Model 8,Blue,Snapdragon 865,584,584,459,868
+Xiaomi,Model 0,Red,Exynos 990,945,945,854,676
+Xiaomi,Model 19,White,Snapdragon 865,584,584,520,740
+Google,Model 12,Blue,Apple A13 Bionic,474,474,415,984
+Samsung,Model 1,Red,Exynos 990,951,951,857,962
+Huawei,Model 11,Blue,MediaTek Dimensity 1000,487,487,346,225
+OnePlus,Model 3,Yellow,Exynos 990,858,858,774,667
+Sony,Model 17,Red,Apple A13 Bionic,612,612,530,393
+OnePlus,Model 4,White,MediaTek Dimensity 1000,750,750,659,891
+Xiaomi,Model 3,Red,Snapdragon 865,647,647,553,255
+Google,Model 9,Blue,Apple A13 Bionic,501,501,361,493
+Huawei,Model 1,Green,Snapdragon 865,544,544,460,981
+Google,Model 18,Blue,Apple A13 Bionic,466,466,348,962
+OnePlus,Model 0,White,MediaTek Dimensity 1000,948,948,889,999
+Xiaomi,Model 6,Green,Snapdragon 865,824,824,728,707
+Huawei,Model 7,Green,Exynos 990,709,709,568,854
+Google,Model 1,Red,Apple A13 Bionic,950,950,855,752
+Sony,Model 14,Red,Apple A13 Bionic,339,339,253,758
+Huawei,Model 13,Green,Snapdragon 865,394,394,248,457
+Google,Model 4,Black,Snapdragon 865,304,304,181,289
+Google,Model 11,Blue,Snapdragon 865,572,572,452,727
+Samsung,Model 17,Yellow,Exynos 990,716,716,642,422
+Apple,Model 13,Black,Exynos 990,952,952,897,747
+Samsung,Model 3,Yellow,Exynos 990,942,942,856,134
+Sony,Model 7,Red,Snapdragon 865,652,652,589,192
+Apple,Model 4,White,Exynos 990,352,352,220,493
+Google,Model 8,Yellow,Exynos 990,371,371,315,395
+Google,Model 14,Black,MediaTek Dimensity 1000,498,498,398,667
+Apple,Model 15,Black,Snapdragon 865,510,510,458,183
+Huawei,Model 16,Green,Snapdragon 865,596,596,538,186
+Sony,Model 4,Blue,Snapdragon 865,437,437,374,577
+Huawei,Model 4,Blue,Snapdragon 865,827,827,677,233
+Huawei,Model 10,White,MediaTek Dimensity 1000,452,452,336,881
+Google,Model 15,White,MediaTek Dimensity 1000,700,700,585,251
+Samsung,Model 19,White,Exynos 990,941,941,859,879
+Huawei,Model 9,Red,Exynos 990,353,353,263,383
+Apple,Model 9,Black,Exynos 990,599,599,456,257
+Sony,Model 15,Red,MediaTek Dimensity 1000,477,477,404,635
+Sony,Model 1,Black,Exynos 990,847,847,785,424
+Huawei,Model 6,Black,Apple A13 Bionic,408,408,342,756
+Google,Model 10,Green,Snapdragon 865,821,821,738,135
+Apple,Model 7,White,Apple A13 Bionic,511,511,403,473
+Huawei,Model 4,Black,Apple A13 Bionic,385,385,330,976
+Samsung,Model 9,Blue,Exynos 990,594,594,504,610
+OnePlus,Model 15,Green,Exynos 990,865,865,786,869
+Apple,Model 8,Yellow,MediaTek Dimensity 1000,584,584,470,828
+Samsung,Model 2,Yellow,Snapdragon 865,579,579,466,787
+Samsung,Model 0,White,Exynos 990,597,597,498,34
+Samsung,Model 10,White,Exynos 990,767,767,653,139
+Google,Model 3,Yellow,Exynos 990,388,388,273,191
+Xiaomi,Model 17,Yellow,Exynos 990,732,732,666,33
+Apple,Model 16,Green,Exynos 990,680,680,585,941
+Huawei,Model 10,White,Apple A13 Bionic,992,992,923,521
+Apple,Model 13,Red,Apple A13 Bionic,995,995,922,335
+OnePlus,Model 4,Black,Apple A13 Bionic,736,736,665,587
+Apple,Model 18,Yellow,MediaTek Dimensity 1000,558,558,438,500
+Huawei,Model 6,Yellow,Snapdragon 865,834,834,729,771
+Huawei,Model 5,Black,MediaTek Dimensity 1000,963,963,830,691
+Huawei,Model 14,Black,Apple A13 Bionic,320,320,203,60
+Apple,Model 15,Red,Apple A13 Bionic,457,457,390,341
+Apple,Model 13,Blue,Exynos 990,921,921,791,805
+Sony,Model 0,Green,MediaTek Dimensity 1000,331,331,253,614
+Huawei,Model 14,Green,Apple A13 Bionic,465,465,375,600
+Xiaomi,Model 14,Blue,Snapdragon 865,628,628,554,305
+Sony,Model 6,Yellow,Snapdragon 865,949,949,894,768
+Google,Model 8,Yellow,Snapdragon 865,434,434,369,74
+Sony,Model 16,Black,Snapdragon 865,386,386,292,231
+Apple,Model 0,White,Exynos 990,682,682,535,889
+Google,Model 15,White,Snapdragon 865,584,584,513,838
+Huawei,Model 12,Green,Snapdragon 865,514,514,413,149
+Apple,Model 8,Black,Exynos 990,746,746,621,263
+Apple,Model 1,Red,Apple A13 Bionic,337,337,210,51
+Google,Model 5,Red,MediaTek Dimensity 1000,882,882,801,916
+Sony,Model 8,Red,Apple A13 Bionic,515,515,412,190
+Xiaomi,Model 1,Green,Apple A13 Bionic,843,843,733,405
+Huawei,Model 12,Red,Snapdragon 865,490,490,416,484
+Samsung,Model 11,White,Snapdragon 865,403,403,323,266
+Apple,Model 6,Red,Snapdragon 865,775,775,658,399
+Apple,Model 3,Green,MediaTek Dimensity 1000,401,401,264,766
+Huawei,Model 16,Yellow,Exynos 990,386,386,276,588
+Huawei,Model 18,Red,Snapdragon 865,389,389,251,776
+Google,Model 15,Yellow,Snapdragon 865,446,446,346,241
+OnePlus,Model 16,Yellow,Apple A13 Bionic,475,475,406,953
+Sony,Model 13,Blue,Snapdragon 865,792,792,643,995
+Samsung,Model 12,Black,Snapdragon 865,874,874,766,478
+Huawei,Model 1,Blue,Exynos 990,684,684,593,309
+Xiaomi,Model 17,White,Apple A13 Bionic,712,712,621,18
+Sony,Model 2,Black,Exynos 990,460,460,319,753
+Huawei,Model 13,Black,Exynos 990,535,535,454,353
+Sony,Model 16,Red,MediaTek Dimensity 1000,514,514,436,321
+Google,Model 15,Green,Snapdragon 865,832,832,780,331
+Google,Model 17,Blue,MediaTek Dimensity 1000,644,644,508,976
+Apple,Model 13,Red,MediaTek Dimensity 1000,706,706,561,529
+Xiaomi,Model 4,Blue,Exynos 990,918,918,811,222
+Xiaomi,Model 8,White,MediaTek Dimensity 1000,757,757,681,226
+Google,Model 5,White,MediaTek Dimensity 1000,745,745,601,913
+Sony,Model 0,Black,MediaTek Dimensity 1000,519,519,427,803
+Xiaomi,Model 12,Blue,Exynos 990,870,870,785,657
+Sony,Model 8,Yellow,Apple A13 Bionic,355,355,293,614
+Apple,Model 18,Blue,Apple A13 Bionic,460,460,331,436
+Huawei,Model 12,Red,Apple A13 Bionic,437,437,372,757
+Huawei,Model 4,Yellow,Exynos 990,364,364,301,46
+Apple,Model 7,Black,Apple A13 Bionic,493,493,390,702
+Google,Model 14,Yellow,MediaTek Dimensity 1000,743,743,597,861
+Google,Model 16,Blue,Snapdragon 865,635,635,556,639
+Sony,Model 8,Yellow,Snapdragon 865,997,997,867,780
+Google,Model 4,Blue,Snapdragon 865,408,408,351,842
+Google,Model 4,Green,Snapdragon 865,873,873,781,252
+OnePlus,Model 2,Blue,MediaTek Dimensity 1000,370,370,254,456
+Huawei,Model 3,Yellow,MediaTek Dimensity 1000,508,508,415,938
+Samsung,Model 7,Black,Snapdragon 865,912,912,809,819
+Samsung,Model 19,Green,Apple A13 Bionic,925,925,808,217
+Apple,Model 1,White,Apple A13 Bionic,704,704,630,300
