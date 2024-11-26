@@ -2,7 +2,7 @@ Market Forecasting Using Machine Learning
 Team Members
 Hemanth Borra , 
 Yeswanth Kumar Muttha ,
-Adarsh Kodumuru 
+Adarsh Kodumuru  
 Project Description
 This project aims to optimize pricing strategies in the mobile phone industry by applying advanced machine learning techniques. By analyzing market demand, competition, and pricing elasticity, we developed a data-driven model that accurately predicts the optimal price for maximizing revenue while maintaining customer satisfaction.
 
