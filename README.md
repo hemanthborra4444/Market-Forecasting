@@ -1,6 +1,6 @@
 Market Forecasting Using Machine Learning
 Team Members
-Hemanth Borra ,
+Hemanth Borra , 
 Yeswanth Kumar Muttha ,
 Adarsh Kodumuru 
 Project Description
